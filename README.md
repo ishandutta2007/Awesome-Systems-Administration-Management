@@ -10,6 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Systems-Administration-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Systems-Administration-Management?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Systems-Administration-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Systems-Administration-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🌐 **A comprehensive, SEO-optimized curated directory of Systems Administration, Remote Monitoring & Management (RMM), Unified Endpoint Management (UEM), Infrastructure Observability, and Fleet Automation tools** — comparing enterprise commercial SaaS solutions and powerful self-hosted open-source software (OSS).
@@ -29,6 +30,8 @@
   - [🔬 Detailed Open-Source Solution Profiles](#-detailed-open-source-solution-profiles)
 - [📊 Architectural Comparison at a Glance](#-architectural-comparison-at-a-glance-)
 - [🤝 Contributing Guidelines](#-contributing-guidelines-)
+- [💖 Support & Sponsorship](#-support--sponsorship-)
+- [📈 Star History](#-star-history-)
 - [📄 License & Disclaimers](#-license--disclaimers-)
 
 ---
@@ -262,6 +265,27 @@ To contribute:
 - Create a new descriptive branch (`git checkout -b add-tool-name`).
 - Add the tool to the appropriate section preserving alphabetical or star-ranked ordering.
 - Submit a pull request with a clear description of the project and why it adds value.
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+Thank you so much for exploring and using **Awesome Systems Administration & Management**! 
+
+If this curated repository saved you time, introduced you to great tools, or assisted in your infrastructure architecture, please consider supporting this project:
+
+- ⭐ **Star this repository** on GitHub to increase its visibility for the broader community.
+- 🍴 **Fork and contribute** by adding new tools, updating pricing tiers, or suggesting improvements.
+- 📢 **Share this list** with fellow sysadmins, DevOps engineers, colleagues, and communities!
+- ☕ **Sponsor the maintainer / Buy a coffee:** You can support continuous maintenance, research, and curation through the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Systems-Administration-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Systems-Administration-Management&type=date&legend=top-left)
 
 ---
 
